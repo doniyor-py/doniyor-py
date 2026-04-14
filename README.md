@@ -4,10 +4,10 @@ Data Analyst focused on **Python, SQL, and R** projects from raw data to insight
 I build practical, end-to-end analytics work: cleaning, analysis, visualization, and clear business reporting.
 
 ## Portfolio
-🌐 **Web portfolio:** [doniyor.dev)
+🌐 **Web portfolio:** [doniyor.dev](https://doniyor.dev/)
 
 ## What I'm focused on
-- Data Analyst internship or jobs opportunities in London 
+- Data Analyst internship and job opportunities in London
 - SQL + Python analysis projects with clear business questions
 - Reproducible workflows in Jupyter / R Markdown
 - Improving Power BI dashboard storytelling
